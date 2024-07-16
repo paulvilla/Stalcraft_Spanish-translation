@@ -5649,7 +5649,7 @@ gui.pause.settings.unsaved_changes.action.confirm=Aplicar cambios
 gui.pause.settings.unsaved_changes.action.cancel=Deshacer cambios
 gui.pause.settings.title=Configuración
 gui.pause.settings.search=Buscar por categoría...
-gui.pause.settings.reset_all_settings=Reiniciar todos los ajustes de la sección
+gui.pause.settings.reset_all_settings=Reiniciar todos los ajustes
 gui.pause.settings.apply_changes=Aplicar
 gui.pause.settings.graphic_presets.custom=Personalizar
 gui.pause.settings.category.game=Juego
@@ -22957,7 +22957,7 @@ item.case.summer24_usual.name=Maleta básica ZIVCAS Corporation
 item.case.summer24_usual.additional_stats_tip=Dentro hay uno de los siguientes objetos:\n- Mono Tonga\n- Traje blindado pesado Fog Hunter\n- Grizzly 8. 5- OTs-14M Shtorm- MIS-102 Zircon- Berloga-4u Container- Soviet Travel Backpack- Altyn Set- MIS-100 Garnet- Lynx Armored Suit- SOK-94- M1014- IMI Micro UZI- Mochila NPA- KZS-3u- KZS-2u- Traje Hazmat Mejorado- Bolsa Duffel- Ingram MAC-10- IMI Mini UZI
 
 stalkerguide.quest.getup.header=De pie
-stalkerguide.quest.getup.text=Presiona [tecla:{keyName}] para levantarte.
+stalkerguide.quest.getup.text=Presiona [key:{keyName}] para levantarte.
 stalkerguide.quest.walkaround.text=Usa las teclas \n[#tecla.adelante] [#tecla.izquierda] [#tecla.atrás] [#tecla.derecha] para moverte.
 stalkerguide.quest.medkit_pre.text=Pasa el ratón por encima de un objeto y pulsa [key:{keyName}] para cogerlo.
 stalkerguide.quest.medkit_pre.desc.pickup=Recoge un botiquín de primeros auxilios
